@@ -1,0 +1,25 @@
+#box1{
+    padding: 15px;
+    width: 10%;
+    background-color: grey;
+    color: yellow;
+}
+#box2{
+    padding: 15px;
+    width: 10%;
+    background-color: blue;
+    color: white;
+}
+#box3{
+    padding: 15px;
+    width: 10%;
+    background-color: red;
+    color: white;
+}
+
+#container{
+    background-color: green;
+    padding: 10px;
+    display:flex;
+    justify-content: center;
+}
