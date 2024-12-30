@@ -1,0 +1,16 @@
+.box { 
+    background-color: rgb(233, 20, 148); 
+    margin-top: 10px; 
+    margin-left: 10px; 
+    width: 20rem; 
+    color: light green; 
+    text-align: center; 
+    font-size: 100px; 
+    border: 10px solid red; 
+    padding: 2px; 
+} 
+
+body { 
+    background-color: lightgreen; 
+}
+ 
